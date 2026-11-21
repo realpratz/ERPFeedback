@@ -1,0 +1,20 @@
+# Secrets: your ERP login
+.env
+
+# Saved Google/ERP browser session (contains login cookies)
+.browser-profile/
+
+# Screenshots contain your name, ID and courses
+screenshots/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
